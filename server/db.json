@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "name": "admin",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Rakesh Lonikar",
+      "email": "rakeshlonikar@gmail.com",
+      "photo": "https://static.toiimg.com/photo/80482429.cms",
+      "dob": "18/02/1995",
+      "country": "India",
+      "mobile": 9970605853,
+      "id": "s-Fcw-X"
+    },
+    {
+      "name": "Akshata Lonikar",
+      "email": "akshu@gmail.com",
+      "photo": "https://images.unsplash.com/photo-1662874616833-78a4a4f17077?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxM3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+      "dob": "29/04/1996",
+      "country": "India",
+      "mobile": 9970605853,
+      "id": "bYU5o-s"
+    },
+    {
+      "name": "Vinayak ",
+      "email": "vinayak@gmail.com",
+      "photo": "https://images.unsplash.com/photo-1663097606407-afacf0cbec23?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+      "dob": "07/06/1996",
+      "country": "India",
+      "mobile": 1234567890,
+      "id": "I3Cmrvg"
+    }
+  ]
+}
