@@ -4,7 +4,6 @@ import AddDetails from '../views/AddDetails';
 import ViewDetails from '../views/ViewDetails';
 import EditDetails from '../views/EditDetails';
 import PageNotFound from '../views/PageNotFound';
-import ProductView from '../views/ProductView';
 import SuccessView from '../views/SuccessView';
 import ErrorView from '../views/ErrorView';
 
@@ -25,11 +24,7 @@ const routes = [
     name: 'viewDetails',
     component: ViewDetails
   },
-  {
-    path: '/product',
-    name:'ProductView',
-    component: ProductView
-  },
+
   {
     path: '/success',
     name:'SuccessView',
